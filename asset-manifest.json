@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Eunoia224/Frontend-mentor-todo-app.git/static/css/main.41aca980.css",
+    "main.js": "/Eunoia224/Frontend-mentor-todo-app.git/static/js/main.6bdcd736.js",
+    "static/media/bg-desktop-light.jpg": "/Eunoia224/Frontend-mentor-todo-app.git/static/media/bg-desktop-light.3508d620efd5a52bb4ce.jpg",
+    "static/media/bg-desktop-dark.jpg": "/Eunoia224/Frontend-mentor-todo-app.git/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/Eunoia224/Frontend-mentor-todo-app.git/index.html",
+    "main.41aca980.css.map": "/Eunoia224/Frontend-mentor-todo-app.git/static/css/main.41aca980.css.map",
+    "main.6bdcd736.js.map": "/Eunoia224/Frontend-mentor-todo-app.git/static/js/main.6bdcd736.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41aca980.css",
+    "static/js/main.6bdcd736.js"
+  ]
+}
