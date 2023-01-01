@@ -19,7 +19,7 @@
     "typescript": "^4.9.4",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/Eunoia224/Frontend-mentor-todo-app.git",
+  "homepage": "https://github.com/Eunoia224/Frontend-mentor-todo-app",
   "scripts": {
     "start": "react-scripts start",
     "predeploy": "npm run build",
